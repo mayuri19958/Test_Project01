@@ -10,3 +10,6 @@ d
 da
 dadd
 chetan
+
+prem 
+amana
